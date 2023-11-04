@@ -8,7 +8,6 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Self+Taught+Programmer;2.5%2B+years+of+coding+experien" alt="Typing SVG" /></a>
 </p>
-<a href="https://gpvc.arturio.dev/alsiam"><img src="https://gpvc.arturio.dev/alsiam" align="left" alt="Visits"></a>
 <br>
 <!-- Intro  -->
 <h3 align="center">
