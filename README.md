@@ -30,7 +30,7 @@
         <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
         <img alt="" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
         <img alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img alt="" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+        <img alt="" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
         <a href="https://github.com/mess-ale?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
         </a>
@@ -42,6 +42,14 @@
         <img alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
         <img alt="" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
         <img alt="" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+        </a>
+        <a href="https://github.com/mess-ale?tab=repositories" target="_blank">
+        <img alt="material ui" src="https://img.shields.io/badge/material-ui-%231572B6.svg?style=for-the-badge&logo=material-ui&logoColor=white">
+        <img alt="django" src="https://img.shields.io/badge/Django-%23your_color_code.svg?style=for-the-badge" />
+        <img alt="ui/ux" src="https://img.shields.io/badge/UI%2FUX-lightblue?style=for-the-badge&logo=figma&logoColor=white">
+        <img alt="vite" src="https://img.shields.io/badge/Vite-%23your_color_code.svg?style=for-the-badge&logo=https://vitejs.dev/logo.svg&logoColor=white">
+        <img alt="machine learning" src="https://img.shields.io/badge/Machine%20Learning-neural-network?style=for-the-badge&logo=neural-network&logoColor=white">
+        <img alt="anaconda" src="https://img.shields.io/badge/Anaconda-%23your_color_code.svg?style=for-the-badge">
         </a>
 </p>
 
