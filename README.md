@@ -12,7 +12,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
-                <b><a href="https://storied-capybara-b9b0d9.netlify.app/" target="_blank">Meseret Alemnew</a></b>
+                <b><a href="" target="_blank">Meseret Alemnew</a></b>
         </samp>
 </h3>
 <p align="center">
